@@ -1,0 +1,17 @@
+{
+  "name": "chrome-table-flip-extension",
+  "version": "0.1.0",
+  "description": "How to deal with html tables",
+  "main": "index.js",
+  "dependencies": {
+    "jshint": "^2.9.4"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Reese",
+  "license": "ISC"
+}
